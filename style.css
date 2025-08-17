@@ -1,0 +1,262 @@
+.shapka {
+	text-align: center;
+}
+h1 {
+	text-align: center;
+}
+p {
+	font-size: 17px;
+	text-align: justify;
+	padding: 10px;
+}
+.klas {
+	width: 250px;
+	height: auto;
+	margin-top: 70px;
+}
+.klas img {
+	width: 100%;
+	height: auto;
+}
+.ekran {
+	width: 250px;
+	height: auto;
+	margin-top: 70px;
+	padding-top: 100px;
+}
+.ekran img{
+	width: 100%;
+	height: auto;
+}
+.pixel {
+	width: 250px;
+	height: auto;
+	margin-top: 70px;
+}
+.pixel img{
+	width: 100%;
+	height: auto;
+}
+.daftar {
+	width: 250px;
+	height: auto;
+	margin-top: 70px;
+}
+.daftar img{
+     width: 100%;
+     height: auto;
+}
+.sumka {
+	width: 250px;
+	height: auto;
+	margin-top: 70px;
+}
+.sumka img{
+	width: 100%;
+	height: auto;
+}
+.kiyim {
+	width: 250px;
+	height: auto;
+	margin-top: 70px;
+}
+.kiyim img{
+	width: 100%;
+	height: auto;
+}
+.shim {
+	width: 250px;
+	height: auto;
+	margin-top: 70px;
+}
+.shim img{
+	width: 100%;
+	height: auto;
+}
+.uy {
+	width: 250px;
+	height: auto;
+	margin-top: 70px;
+}
+.uy img{
+	width: 100%;
+	height: auto;
+}
+.gilam {
+	width: 250px;
+	height: auto;
+	margin-top: 70px;
+}
+.gilam img{
+	width: 100%;
+	height: auto;
+}
+.pomidor {
+	width: 250px;
+	height: auto;
+	margin-top: 70px;
+}
+.pomidor img{
+	width: 100%;
+	height: auto;
+}
+.tarvuz {
+	width: 250px;
+	height: auto;
+	margin-top: 70px;
+}
+.tarvuz img{
+	width: 100%;
+	height: auto;
+}
+.qovun {
+	width: 250px;
+	height: auto;
+	margin-top: 70px;
+}
+.qovun img{
+	width: 100%;
+	height: auto;
+}
+.olma{
+	width: 250px;
+	height: auto;
+	margin-top: 70px;
+}
+.olma img{
+	width: 100%;
+	height: auto;
+}
+.meva {
+	width: 250px;
+	height: auto;
+	margin-top: 70px;
+}
+.meva img{
+	width: 100%;
+	height: auto;
+}
+.olcha {
+	width: 250px;
+	height: auto;
+	margin-top: 70px;
+}
+.olcha img{
+	width: 100%;
+	height: auto;
+}
+h1 {
+	background-color: green;
+	color: red;
+	padding: 10px 0;
+	font-size: 24px;
+	text-align: center;
+}
+.ruchka {
+	width: 250px;
+	height: auto;
+	margin-top: 70px;
+}
+.ruchka img{
+	width: 100%;
+	height: auto;
+}
+.xodim {
+	background-color: gold;
+	color: red;
+}
+.sinus {
+	border: 5px solid orangered;
+	padding: 15px;
+	background-color: gold;
+}
+.rasm {
+	margin-top: 70px;
+}
+.kitob {
+	width: 250px;
+	height: auto;
+	margin-top: 70px;
+}
+.kitob img{
+	width: 100%;
+	height: auto;
+
+}
+.piyoz{
+	margin-top: 70px;
+}
+.idish {
+	margin-left: auto;
+	margin-right: auto;
+}
+h2 {
+	padding: 20px;
+	background-color: gold;
+	color: green;
+}
+.telefon:hover {
+	background-color: green;
+	transition: 1s;
+}
+.telefon:active {
+	background-color: red;
+	color: green;
+}
+.uzunlik iframe {
+	width: 100%;
+}
+.joy {
+	position: fixed;
+	right: 20px;
+	top: 20px;
+	cursor: pointer;
+	background-color: white;
+	color: black;
+}
+.telefon {
+	color: gold;
+}
+body {
+	margin: 0;
+	padding: 0:;
+	font-size: 16px;
+	box-sizing: border-box;
+}
+.container {
+	max-width: 100%;
+	padding: 10px;
+	box-sizing: border-box;
+}
+.joy {
+	display: flex;
+	justify-content: center;
+	gap: 10px;
+	flex-wrap: wrap;
+	margin-top: 20px;
+}
+@media (max-width: 600px) {
+	.joy {
+		flex-direction: column;
+		align-items: center;
+	}
+	.shapka img{
+		width: 100%;
+		height: auto;
+	}
+}
+.shapka img{
+	max-width: 100%;
+	height: auto;
+	display: block;
+	margin: 0 auto;
+	box-sizing: border-box;
+	padding: 10px;
+}
+.button {
+	font-size: 16px;
+	padding: 10px 20px;
+	margin: 5px;
+	width: 100%;
+	max-width: 300px;
+}
